@@ -144,7 +144,7 @@ caused hours of confusion. **1 kΩ works; 2.2 kΩ may not.**
 
 ---
 
-# The connector — NOT HP Common Slot
+# The connector IS NOT HP Common Slot
 
 Although it physically resembles a gold-finger card edge, **this is not the
 64-pin HP Common Slot (CSPS) pinout.** Applying HP Common Slot pin numbers
