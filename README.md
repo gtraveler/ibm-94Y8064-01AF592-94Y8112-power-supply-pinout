@@ -113,7 +113,6 @@ as the **550 W** 80 Plus Platinum power supply option.
 It works even with the pins pre-connected before AC is applied — no timing
 sequence or I²C handshake is required.
 
-![Enable wiring](images/enable-wiring.jpg)
 
 | Pin | Function (likely) | Connection |
 |-----|-------------------|------------|
