@@ -60,6 +60,10 @@ Reported by resellers — verify against your own label:
 - **IBM / Lenovo System x3650 M5** and **x3650 M4 HD** as the optional
   **1400 W** power supply *(these chassis accept 550 W / 750 W / 900 W / 1400 W)*
 
+
+![Connector, front side](images/artesyn_emerson_01AF592_label.jpg)
+
+
 ---
 
 # Unit 2 — Emerson / Astec 7001676-J000 (550 W)
@@ -104,6 +108,9 @@ part numbers depending on channel/config. All interchangeable:
 - **IBM / Lenovo System x3300 M4**
 
 as the **550 W** 80 Plus Platinum power supply option.
+
+
+![Connector, front side](images/emerson_artesyn_94Y8112_label.jpg)
 
 ---
 
