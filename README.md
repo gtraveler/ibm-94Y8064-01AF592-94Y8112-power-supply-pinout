@@ -166,6 +166,12 @@ will not work. The layout is IBM/Lenovo System x specific:
 Map your own connector with a multimeter (AC off for continuity grouping,
 then AC on to find the ~12 V standby pin) before trusting any pinout.
 
+
+Here is a picture of the output connections
+
+![Connector, back side](images/emerson_artesyn_94Y8112_Power_Connectors.jpg)
+
+
 ---
 
 # Fan control
